@@ -1,14 +1,15 @@
 {
-    "Group": "Example",
-    "Name": "ExamplePlugin",
-    "Version": "0.0.2",
-    "Description": "An example plugin for HyTale!",
+    "Group": "optimalnoob",
+    "Name": "Mortar",
+    "Version": "0.1.0",
+    "Description": "A lightweight mod adding lightweight changes to Hytale!",
     "Authors": [
         {
-            "Name": "It's you!"
+            "Name": "optimalnoob",
+            "URL": "https://github.com/OptimalNoob"
         }
     ],
-    "Website": "example.org",
+    "Website": "https://github.com/OptimalNoob/hytale-mortar.git",
     "ServerVersion": "*",
     "Dependencies": {
         
@@ -17,6 +18,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
+    "Main": "com.optimalnoob.mortar.MortarPlugin",
     "IncludesAssetPack": true
 }
