@@ -52,7 +52,7 @@
       }
     },
     "BlockParticleSetId": "Metal",
-    "ParticleColor": "#3c8a4b",
+    "ParticleColor": "#fce87f",
     "BlockSoundSetId": "Metal"
   },
   "PlayerAnimationsId": "Block",

@@ -27,7 +27,7 @@
   },
   "BlockType": {
     "BlockParticleSetId": "Metal",
-    "CustomModel": "Blocks/Tinkering/Iron_Bars_Platform.blockymodel",
+    "CustomModel": "Blocks/Tinkering/Cobalt_Bars_Platform.blockymodel",
     "CustomModelTexture": [
       {
         "Weight": 1,
@@ -44,7 +44,7 @@
     "HitboxType": "Platform",
     "Material": "Solid",
     "Opacity": "Transparent",
-    "ParticleColor": "#3c8a4b",
+    "ParticleColor": "#246080",
     "VariantRotation": "Wall",
     "BlockSoundSetId": "Metal"
   },

@@ -44,7 +44,7 @@
     "HitboxType": "Platform",
     "Material": "Solid",
     "Opacity": "Transparent",
-    "ParticleColor": "#3c8a4b",
+    "ParticleColor": "#fce87f",
     "VariantRotation": "Wall",
     "BlockSoundSetId": "Metal"
   },

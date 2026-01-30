@@ -11,7 +11,7 @@
     "Material": "Solid",
     "DrawType": "Model",
     "Opacity": "Transparent",
-    "CustomModel": "Blocks/Tinkering/Iron_Bars_Corner.blockymodel",
+    "CustomModel": "Blocks/Tinkering/Cobalt_Bars_Corner.blockymodel",
     "CustomModelTexture": [
       {
         "Weight": 1,
@@ -28,7 +28,7 @@
       }
     },
     "BlockParticleSetId": "Metal",
-    "ParticleColor": "#3c8a4b",
+    "ParticleColor": "#246080",
     "BlockSoundSetId": "Metal",
     "FlipType": "Orthogonal"
   },

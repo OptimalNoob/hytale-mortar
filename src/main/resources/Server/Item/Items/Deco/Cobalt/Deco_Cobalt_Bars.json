@@ -28,7 +28,7 @@
     "Material": "Solid",
     "DrawType": "Model",
     "Opacity": "Transparent",
-    "CustomModel": "Blocks/Tinkering/Iron_Bars.blockymodel",
+    "CustomModel": "Blocks/Tinkering/Cobalt_Bars.blockymodel",
     "CustomModelTexture": [
       {
         "Texture": "BlockTextures/Deco/Cobalt_Bars.png",
@@ -52,7 +52,7 @@
       }
     },
     "BlockParticleSetId": "Metal",
-    "ParticleColor": "#3c8a4b",
+    "ParticleColor": "#246080",
     "BlockSoundSetId": "Metal"
   },
   "PlayerAnimationsId": "Block",
