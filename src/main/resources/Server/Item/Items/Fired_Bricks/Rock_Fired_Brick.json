@@ -1,0 +1,66 @@
+{
+  "TranslationProperties": {
+    "Name": "server.blocks.Rock_Fired_Brick.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Rock_Fired_Brick.png",
+  "ItemLevel": 15,
+  "MaxStack": 100,
+  "Categories": [
+    "Blocks.Rocks"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "Ceramic_Brick",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Soil_Clay_Brick",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Furnace",
+        "Type": "Processing"
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 6
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Cube",
+    "Group": "Ceramic",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "BlockParticleSetId": "Stone",
+    "Textures": [
+      {
+        "All": "BlockTextures/Rock_Fired_Brick.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#692b1d",
+    "BlockSoundSetId": "Stone"
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Bricks"
+    },
+    {
+      "Id": "Rock_Ceramic_Brick"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Rock"
+    ],
+    "Family": [
+      "Ceramic"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Blocks_Stone"
+}
