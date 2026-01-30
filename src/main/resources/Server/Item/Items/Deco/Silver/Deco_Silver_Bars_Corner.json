@@ -1,0 +1,59 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Deco_Silver_Bars_Corner.name"
+  },
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Parent": "Deco_Silver_Bars",
+  "Set": "Deco_Silver",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Tinkering/Iron_Bars_Corner.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Weight": 1,
+        "Texture": "BlockTextures/Deco/Silver_Bars.png"
+      }
+    ],
+    "HitboxType": "Fence_Corner_Thin",
+    "VariantRotation": "NESW",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks",
+        "ItemId": "Deco_Silver_Bars"
+      }
+    },
+    "BlockParticleSetId": "Metal",
+    "ParticleColor": "#f8f8f8",
+    "BlockSoundSetId": "Metal",
+    "FlipType": "Orthogonal"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ],
+    "Family": [
+      "Silver"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "Variant": true,
+  "Icon": "Icons/ItemsGenerated/Deco_Silver_Bars_Corner.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

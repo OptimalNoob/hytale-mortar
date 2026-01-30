@@ -1,0 +1,59 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Deco_Gold_Bars_Corner.name"
+  },
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Parent": "Deco_Gold_Bars",
+  "Set": "Deco_Gold",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Tinkering/Iron_Bars_Corner.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Weight": 1,
+        "Texture": "BlockTextures/Deco/Gold_Bars.png"
+      }
+    ],
+    "HitboxType": "Fence_Corner_Thin",
+    "VariantRotation": "NESW",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks",
+        "ItemId": "Deco_Gold_Bars"
+      }
+    },
+    "BlockParticleSetId": "Metal",
+    "ParticleColor": "#3c8a4b",
+    "BlockSoundSetId": "Metal",
+    "FlipType": "Orthogonal"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ],
+    "Family": [
+      "Gold"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "Variant": true,
+  "Icon": "Icons/ItemsGenerated/Deco_Gold_Bars_Corner.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

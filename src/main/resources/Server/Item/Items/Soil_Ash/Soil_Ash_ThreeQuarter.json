@@ -1,8 +1,9 @@
 {
   "TranslationProperties": {
-    "Name": "server.blocks.Soil_Dirt_Half.name"
+    "Name": "server.blocks.Soil_Ash_ThreeQuarter.name"
   },
-  "ItemLevel": 10,
+  "Icon": "Icons/ItemsGenerated/Soil_Ash_ThreeQuarter.png",
+  "ItemLevel": 3,
   "Categories": [
     "Blocks.Soils"
   ],
@@ -10,21 +11,21 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Soil_Dirt",
+        "ItemId": "Soil_Ash",
         "Quantity": 1
       }
     ],
     "BenchRequirement": [
       {
         "Id": "Builders",
-        "Type": "Crafting",
+        "Type": "StructuralCrafting",
         "Categories": [
           "Structural-Rock"
         ]
       }
     ],
-    "OutputQuantity": 2,
-    "TimeSeconds": 2
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
   },
   "PlayerAnimationsId": "Block",
   "Interactions": {
@@ -43,31 +44,21 @@
             }
           ]
         }
-      ],
-      "Cooldown": {
-        "Id": "BlockInteraction",
-        "Cooldown": 0.3,
-        "ClickBypass": true
-      },
-      "Settings": {
-        "Creative": {
-          "AllowSkipChainOnClick": true
-        }
-      }
+      ]
     }
   },
   "BlockType": {
     "Material": "Solid",
     "DrawType": "Model",
-    "CustomModel": "Blocks/Structures/Base_Shapes/HalfBlock.blockymodel",
+    "CustomModel": "Blocks/Structures/Base_Shapes/ThreeQuarterBlock.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "BlockTextures/Soil_Dirt.png",
+        "Texture": "BlockTextures/Soil_Ashes.png",
         "Weight": 1
       }
     ],
-    "Group": "Dirt",
-    "HitboxType": "Block_Half",
+    "Group": "Ash",
+    "HitboxType": "Block_Three_Quarter",
     "Flags": {},
     "Gathering": {
       "Breaking": {
@@ -75,14 +66,14 @@
       }
     },
     "VariantRotation": "DoublePipe",
-    "BlockParticleSetId": "Dirt",
+    "BlockParticleSetId": "Dust",
     "Supporting": {
       "Down": [
         {}
       ]
     },
-    "ParticleColor": "#98743b",
-    "BlockSoundSetId": "Dirt",
+    "ParticleColor": "#3d3e3e",
+    "BlockSoundSetId": "Gravel",
     "State": {
       "Definitions": {
         "Block": {
@@ -91,15 +82,10 @@
           "HitboxType": "Full",
           "Textures": [
             {
-              "All": "BlockTextures/Soil_Dirt.png",
+              "All": "BlockTextures/Soil_Ashes.png",
               "Weight": 1
             }
-          ],
-          "Supporting": {
-            "BlockSides": [
-              {}
-            ]
-          }
+          ]
         }
       }
     }
@@ -109,7 +95,6 @@
       "Soil"
     ]
   },
-  "ItemSoundSetId": "ISS_Blocks_Soft",
   "IconProperties": {
     "Scale": 0.58823,
     "Rotation": [
@@ -122,5 +107,5 @@
       -13.5
     ]
   },
-  "Icon": "Icons/ItemsGenerated/Soil_Dirt_Half.png"
+  "ItemSoundSetId": "ISS_Blocks_Soft"
 }

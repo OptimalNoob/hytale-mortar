@@ -1,2 +1,49 @@
-blocks.Soil_Dirt_Half.name = Dirt Slab
 blocks.Soil_Dirt_Stairs.name = Dirt Stairs
+blocks.Soil_Dirt_Half.name = Dirt Slab
+blocks.Soil_Dirt_Quarter.name = Dirt Slab - Thin
+blocks.Soil_Dirt_ThreeQuarter.name = Dirt Slab - Thick
+
+blocks.Soil_Ash_Stairs.name = Ash Stairs
+blocks.Soil_Ash_Half.name = Ash Slab
+blocks.Soil_Ash_Quarter.name = Ash Slab - Thin
+blocks.Soil_Ash_ThreeQuarter.name = Ash Slab - Thick
+
+items.Deco_Copper_Chain_Small.name = Copper Chain - Small
+items.Deco_Copper_Bars.name = Copper Bars
+items.Deco_Copper_Bars_Platform.name = Copper Bars - Horizontal
+items.Deco_Copper_Bars_Corner.name = Copper Bars - Corner
+items.Deco_Copper_Stack.name = Stack of Copper Bars
+items.Deco_Copper_Chains.name = Copper Chain
+items.Deco_Copper_Chains_Vertical.name = Copper Chain - Sloped
+
+items.Deco_Thorium_Chain_Small.name = Thorium Chain - Small
+items.Deco_Thorium_Bars.name = Thorium Bars
+items.Deco_Thorium_Bars_Platform.name = Thorium Bars - Horizontal
+items.Deco_Thorium_Bars_Corner.name = Thorium Bars - Corner
+items.Deco_Thorium_Stack.name = Stack of Thorium Bars
+items.Deco_Thorium_Chains.name = Thorium Chain
+items.Deco_Thorium_Chains_Vertical.name = Thorium Chain - Sloped
+
+items.Deco_Cobalt_Chain_Small.name = Cobalt Chain - Small
+items.Deco_Cobalt_Bars.name = Cobalt Bars
+items.Deco_Cobalt_Bars_Platform.name = Cobalt Bars - Horizontal
+items.Deco_Cobalt_Bars_Corner.name = Cobalt Bars - Corner
+items.Deco_Cobalt_Stack.name = Stack of Cobalt Bars
+items.Deco_Cobalt_Chains.name = Cobalt Chain
+items.Deco_Cobalt_Chains_Vertical.name = Cobalt Chain - Sloped
+
+items.Deco_Silver_Chain_Small.name = Silver Chain - Small
+items.Deco_Silver_Bars.name = Silver Bars
+items.Deco_Silver_Bars_Platform.name = Silver Bars - Horizontal
+items.Deco_Silver_Bars_Corner.name = Silver Bars - Corner
+items.Deco_Silver_Stack.name = Stack of Silver Bars
+items.Deco_Silver_Chains.name = Silver Chain
+items.Deco_Silver_Chains_Vertical.name = Silver Chain - Sloped
+
+items.Deco_Gold_Chain_Small.name = Gold Chain - Small
+items.Deco_Gold_Bars.name = Gold Bars
+items.Deco_Gold_Bars_Platform.name = Gold Bars - Horizontal
+items.Deco_Gold_Bars_Corner.name = Gold Bars - Corner
+items.Deco_Gold_Stack.name = Stack of Gold Bars
+items.Deco_Gold_Chains.name = Gold Chain
+items.Deco_Gold_Chains_Vertical.name = Gold Chain - Sloped

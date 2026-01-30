@@ -1,0 +1,59 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Deco_Thorium_Bars_Corner.name"
+  },
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Parent": "Deco_Thorium_Bars",
+  "Set": "Deco_Thorium",
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Tinkering/Thorium_Bars_Corner.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Weight": 1,
+        "Texture": "BlockTextures/Deco/Thorium_Bars.png"
+      }
+    ],
+    "HitboxType": "Fence_Corner_Thin",
+    "VariantRotation": "NESW",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks",
+        "ItemId": "Deco_Thorium_Bars"
+      }
+    },
+    "BlockParticleSetId": "Metal",
+    "ParticleColor": "#3c8a4b",
+    "BlockSoundSetId": "Metal",
+    "FlipType": "Orthogonal"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ],
+    "Family": [
+      "Thorium"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "Variant": true,
+  "Icon": "Icons/ItemsGenerated/Deco_Thorium_Bars_Corner.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

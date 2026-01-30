@@ -2,7 +2,8 @@
   "TranslationProperties": {
     "Name": "server.blocks.Soil_Dirt_Stairs.name"
   },
-  "ItemLevel": 15,
+  "Icon": "Icons/ItemsGenerated/Soil_Dirt_Stairs.png",
+  "ItemLevel": 3,
   "Categories": [
     "Blocks.Structural"
   ],
@@ -31,7 +32,7 @@
     "CustomModel": "Blocks/Structures/Stairs/Stairs.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "BlockTextures/Soil_Dirt/Soil_Dirt_Stairs.png",
+        "Texture": "BlockTextures/Stairs/Soil_Dirt_Stairs.png",
         "Weight": 1
       }
     ],
@@ -139,7 +140,6 @@
     ]
   },
   "ItemSoundSetId": "ISS_Blocks_Soft",
-  "Icon": "Icons/ItemsGenerated/Soil_Dirt_Stairs.png",
   "IconProperties": {
     "Scale": 0.58823,
     "Rotation": [

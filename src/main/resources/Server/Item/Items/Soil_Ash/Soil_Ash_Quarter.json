@@ -1,0 +1,110 @@
+{
+  "TranslationProperties": {
+    "Name": "server.blocks.Soil_Ash_Quarter.name"
+  },
+  "ItemLevel": 3,
+  "Categories": [
+    "Blocks.Soils"
+  ],
+  "Set": "Soil_Half",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Soil_Ash",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Structural-Rock"
+        ]
+      }
+    ],
+    "OutputQuantity": 4,
+    "TimeSeconds": 0
+  },
+  "PlayerAnimationsId": "Block",
+  "Interactions": {
+    "Secondary": {
+      "Interactions": [
+        {
+          "Parent": "Half_Block",
+          "Matchers": [
+            {
+              "Block": {
+                "Id": "Soil_Ash_Half",
+                "State": "default"
+              },
+              "Face": "Up",
+              "StaticFace": false
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "CustomModel": "Blocks/Structures/Base_Shapes/QuarterBlock.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/Soil_Ashes.png",
+        "Weight": 1
+      }
+    ],
+    "Group": "Dirt",
+    "HitboxType": "Block_Quarter",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Soils"
+      }
+    },
+    "VariantRotation": "DoublePipe",
+    "BlockParticleSetId": "Dust",
+    "Supporting": {
+      "Down": [
+        {}
+      ]
+    },
+    "ParticleColor": "#3d3e3e",
+    "BlockSoundSetId": "Gravel",
+    "State": {
+      "Definitions": {
+        "Block": {
+          "Material": "Solid",
+          "DrawType": "Cube",
+          "HitboxType": "Full",
+          "Textures": [
+            {
+              "All": "BlockTextures/Soil_Ashes.png",
+              "Weight": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Tags": {
+    "Type": [
+      "Soil"
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Soil_Ash_Quarter.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

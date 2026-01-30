@@ -1,0 +1,73 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Deco_Thorium_Chain_Small.name"
+  },
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Set": "Deco_Thorium",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Thorium",
+        "Quantity": 1
+      }
+    ],
+    "OutputQuantity": 2,
+    "BenchRequirement": [
+      {
+        "Type": "StructuralCrafting",
+        "Id": "Builders"
+      }
+    ]
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Tinkering/Iron_Chain_Small.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/Deco/Thorium_Chain_Small.png",
+        "Weight": 1
+      }
+    ],
+    "HitboxType": "Beam_Thin",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "VariantRotation": "Pipe",
+    "BlockParticleSetId": "Metal",
+    "MovementSettings": {
+      "IsClimbable": true
+    },
+    "ParticleColor": "#3c8a4b",
+    "BlockSoundSetId": "Metal"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ],
+    "Family": [
+      "Thorium"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "Icon": "Icons/ItemsGenerated/Deco_Thorium_Chain_Small.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

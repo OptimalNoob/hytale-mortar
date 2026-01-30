@@ -1,0 +1,59 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Deco_Copper_Chains_Vertical.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Deco_Copper_Chains_Vertical.png",
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Set": "Deco_Copper",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Copper",
+        "Quantity": 1
+      }
+    ],
+    "OutputQuantity": 1,
+    "BenchRequirement": [
+      {
+        "Type": "StructuralCrafting",
+        "Id": "Builders"
+      }
+    ]
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Semitransparent",
+    "CustomModel": "Blocks/Tinkering/Iron_Chains_Large_Vertical.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/Deco/Copper_Chains_Large.png",
+        "Weight": 1
+      }
+    ],
+    "VariantRotation": "Pipe",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "BlockParticleSetId": "Metal",
+    "ParticleColor": "#b56738",
+    "BlockSoundSetId": "Metal",
+    "HitboxType": "Chain"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ],
+    "Family": [
+      "Copper"
+    ]
+  },
+  "$Comment": " ",
+  "ItemSoundSetId": "ISS_Items_Metal"
+}
