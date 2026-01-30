@@ -1,3 +1,3 @@
 # Mortar
 
-A lightweight mod adding lightweight changes to Hytale!
+A lightweight mod adding lightweight blocks/changes to Hytale!
