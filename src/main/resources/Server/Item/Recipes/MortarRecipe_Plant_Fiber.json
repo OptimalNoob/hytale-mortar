@@ -1,0 +1,28 @@
+{
+  "Input": [
+    {
+      "ItemId": "Ingredient_Life_Essence",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Fibre",
+    "Quantity": 8
+  },
+  "Output": [
+    {
+      "ItemId": "Ingredient_Fibre",
+      "Quantity": 8
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Id": "Farmingbench",
+      "Categories": [
+        "Decorative"
+      ]
+    }
+  ],
+  "OutputQuantity": 2
+}

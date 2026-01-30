@@ -35,8 +35,8 @@ else if (!file(project.findProperty('hytaleHome')).exists()) {
 
 java {
     toolchain.languageVersion = JavaLanguageVersion.of(java_version)
-    withSourcesJar()
-    withJavadocJar()
+//    withSourcesJar()
+//    withJavadocJar()
 }
 
 // Quiet warnings about missing Javadocs.
