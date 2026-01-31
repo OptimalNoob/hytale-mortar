@@ -11,7 +11,7 @@
     "Material": "Solid",
     "DrawType": "Model",
     "Opacity": "Transparent",
-    "CustomModel": "Blocks/Tinkering/Iron_Bars_Corner.blockymodel",
+    "CustomModel": "Blocks/Tinkering/Silver_Bars_Corner.blockymodel",
     "CustomModelTexture": [
       {
         "Weight": 1,

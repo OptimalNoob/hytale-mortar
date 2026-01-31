@@ -27,11 +27,11 @@
   },
   "BlockType": {
     "BlockParticleSetId": "Metal",
-    "CustomModel": "Blocks/Tinkering/Iron_Bars_Platform.blockymodel",
+    "CustomModel": "Blocks/Tinkering/Silver_Bars_Platform.blockymodel",
     "CustomModelTexture": [
       {
         "Weight": 1,
-        "Texture": "BlockTextures/Deco/Silver_Bars.png"
+        "Texture": "BlockTextures/Deco/Silver_Bars_Platform.png"
       }
     ],
     "DrawType": "Model",

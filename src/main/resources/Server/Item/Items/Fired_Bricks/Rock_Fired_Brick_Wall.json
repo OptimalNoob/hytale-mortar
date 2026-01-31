@@ -1,0 +1,147 @@
+{
+  "TranslationProperties": {
+    "Name": "server.blocks.Rock_Fired_Brick_Wall.name"
+  },
+  "ItemLevel": 15,
+  "Categories": [
+    "Blocks.Structural"
+  ],
+  "PlayerAnimationsId": "Block",
+  "Set": "Ceramic_Brick",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Rock_Fired_Brick",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Wall"
+        ]
+      }
+    ],
+    "OutputQuantity": 2
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Structures/Walls/Wall_Snow_Brick.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/Stairs/Rock_Fired_Brick_Stairs.png",
+        "Weight": 1
+      }
+    ],
+    "Group": "Ceramic",
+    "HitboxType": "Fence",
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "VariantRotation": "Wall",
+    "BlockParticleSetId": "Stone",
+    "Supporting": {
+      "Down": [
+        {
+          "FaceType": "Wall"
+        }
+      ],
+      "Up": [
+        {
+          "FaceType": "Wall"
+        }
+      ]
+    },
+    "ParticleColor": "#692b1d",
+    "BlockSoundSetId": "Stone",
+    "State": {
+      "Definitions": {
+        "Corner": {
+          "CustomModelTexture": [
+            {
+              "Texture": "BlockTextures/Stairs/Rock_Fired_Brick_Stairs.png",
+              "Weight": 1
+            }
+          ],
+          "CustomModel": "Blocks/Structures/Walls/Wall_Snow_Brick_Corner.blockymodel",
+          "HitboxType": "Fence_Corner",
+          "Gathering": {
+            "Breaking": {
+              "ItemId": "Rock_Fired_Brick_Wall",
+              "GatherType": "Rocks"
+            }
+          }
+        },
+        "T_Junction": {
+          "CustomModelTexture": [
+            {
+              "Texture": "BlockTextures/Stairs/Rock_Fired_Brick_Stairs.png",
+              "Weight": 1
+            }
+          ],
+          "CustomModel": "Blocks/Structures/Walls/Wall_Snow_Brick_TJunc.blockymodel",
+          "HitboxType": "Fence_Corner",
+          "Gathering": {
+            "Breaking": {
+              "ItemId": "Rock_Fired_Brick_Wall",
+              "GatherType": "Rocks"
+            }
+          }
+        },
+        "Cross_Junction": {
+          "CustomModelTexture": [
+            {
+              "Texture": "BlockTextures/Stairs/Rock_Fired_Brick_Stairs.png",
+              "Weight": 1
+            }
+          ],
+          "CustomModel": "Blocks/Structures/Walls/Wall_Snow_Brick_CrossJunc.blockymodel",
+          "HitboxType": "Fence_Corner",
+          "Gathering": {
+            "Breaking": {
+              "ItemId": "Rock_Fired_Brick_Wall",
+              "GatherType": "Rocks"
+            }
+          }
+        }
+      }
+    },
+    "ConnectedBlockRuleSet": {
+      "Type": "CustomTemplate",
+      "TemplateShapeAssetId": "WallConnectedBlockTemplate",
+      "TemplateShapeBlockPatterns": {
+        "Straight": "Rock_Fired_Brick_Wall",
+        "Corner": "*Rock_Fired_Brick_Wall_State_Definitions_Corner",
+        "T_Junction": "*Rock_Fired_Brick_Wall_State_Definitions_T_Junction",
+        "Cross_Junction": "*Rock_Fired_Brick_Wall_State_Definitions_Cross_Junction"
+      }
+    }
+  },
+  "Tags": {
+    "Type": [
+      "Rock"
+    ],
+    "Family": [
+      "Ceramic"
+    ]
+  },
+  "Icon": "Icons/ItemsGenerated/Rock_Fired_Brick_Wall.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

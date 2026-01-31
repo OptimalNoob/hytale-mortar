@@ -1,3 +1,5 @@
+customUI.itemRepairPage.noItems = No Items Need Repairing
+
 blocks.Soil_Dirt_Stairs.name = Dirt Stairs
 blocks.Soil_Dirt_Half.name = Dirt Slab
 blocks.Soil_Dirt_Quarter.name = Dirt Slab - Thin
@@ -7,6 +9,17 @@ blocks.Soil_Ash_Stairs.name = Ash Stairs
 blocks.Soil_Ash_Half.name = Ash Slab
 blocks.Soil_Ash_Quarter.name = Ash Slab - Thin
 blocks.Soil_Ash_ThreeQuarter.name = Ash Slab - Thick
+
+blocks.Soil_Mud_Dry_Stairs.name = Dry Mud Stairs
+blocks.Soil_Mud_Dry_Half.name = Dry Mud Slab
+blocks.Soil_Mud_Dry_Quarter.name = Dry Mud Slab - Thin
+blocks.Soil_Mud_Dry_ThreeQuarter.name = Dry Mud Slab - Thick
+
+blocks.Rock_Fired_Brick.name = Fired Brick
+blocks.Rock_Fired_Brick_Half.name = Fired Brick Slab
+blocks.Rock_Fired_Brick_Stairs.name = Fired Brick Stairs
+blocks.Rock_Fired_Brick_Beam.name = Fired Brick Beam
+blocks.Rock_Fired_Brick_Wall.name = Fired Brick Wall
 
 items.Deco_Copper_Chain_Small.name = Copper Chain - Small
 items.Deco_Copper_Bars.name = Copper Bars
