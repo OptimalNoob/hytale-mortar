@@ -31,7 +31,7 @@
     "CustomModelTexture": [
       {
         "Weight": 1,
-        "Texture": "BlockTextures/Deco/Gold_Bars.png"
+        "Texture": "BlockTextures/Deco/Gold_Bars_Platform.png"
       }
     ],
     "DrawType": "Model",
