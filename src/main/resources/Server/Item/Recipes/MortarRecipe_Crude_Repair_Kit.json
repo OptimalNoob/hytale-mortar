@@ -1,0 +1,44 @@
+{
+  "TimeSeconds": 4,
+  "Input": [
+    {
+      "ResourceTypeId": "Rubble",
+      "Quantity": 12
+    },
+    {
+      "ItemId": "Ingredient_Stick",
+      "Quantity": 6
+    },
+    {
+      "ItemId": "Ingredient_Fibre",
+      "Quantity": 12
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Tool_Repair_Kit_Crude",
+    "Quantity": 1
+  },
+  "Output": [
+    {
+      "ItemId": "Tool_Repair_Kit_Crude",
+      "Quantity": 1
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Id": "Fieldcraft",
+      "Categories": [
+        "Tools"
+      ]
+    },
+    {
+      "Type": "Crafting",
+      "Id": "Workbench",
+      "Categories": [
+        "Workbench_Survival"
+      ]
+    }
+  ],
+  "OutputQuantity": 1
+}
