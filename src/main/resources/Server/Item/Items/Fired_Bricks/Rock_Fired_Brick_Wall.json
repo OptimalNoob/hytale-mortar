@@ -77,38 +77,6 @@
               "GatherType": "Rocks"
             }
           }
-        },
-        "T_Junction": {
-          "CustomModelTexture": [
-            {
-              "Texture": "BlockTextures/Stairs/Rock_Fired_Brick_Stairs.png",
-              "Weight": 1
-            }
-          ],
-          "CustomModel": "Blocks/Structures/Walls/Wall_Snow_Brick_TJunc.blockymodel",
-          "HitboxType": "Fence_Corner",
-          "Gathering": {
-            "Breaking": {
-              "ItemId": "Rock_Fired_Brick_Wall",
-              "GatherType": "Rocks"
-            }
-          }
-        },
-        "Cross_Junction": {
-          "CustomModelTexture": [
-            {
-              "Texture": "BlockTextures/Stairs/Rock_Fired_Brick_Stairs.png",
-              "Weight": 1
-            }
-          ],
-          "CustomModel": "Blocks/Structures/Walls/Wall_Snow_Brick_CrossJunc.blockymodel",
-          "HitboxType": "Fence_Corner",
-          "Gathering": {
-            "Breaking": {
-              "ItemId": "Rock_Fired_Brick_Wall",
-              "GatherType": "Rocks"
-            }
-          }
         }
       }
     },

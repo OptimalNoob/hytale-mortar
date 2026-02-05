@@ -60,3 +60,14 @@ items.Deco_Gold_Bars_Corner.name = Gold Bars - Corner
 items.Deco_Gold_Stack.name = Stack of Gold Bars
 items.Deco_Gold_Chains.name = Gold Chain
 items.Deco_Gold_Chains_Vertical.name = Gold Chain - Sloped
+
+
+
+items.Deco_Lantern_Crystal_Blue.name = Crystal Lantern - Blue
+items.Deco_Lantern_Crystal_Cyan.name = Crystal Lantern - Cyan
+items.Deco_Lantern_Crystal_Green.name = Crystal Lantern - Green
+items.Deco_Lantern_Crystal_Pink.name = Crystal Lantern - Pink
+items.Deco_Lantern_Crystal_Purple.name = Crystal Lantern - Purple
+items.Deco_Lantern_Crystal_Red.name = Crystal Lantern - Red
+items.Deco_Lantern_Crystal_White.name = Crystal Lantern - White
+items.Deco_Lantern_Crystal_Yellow.name = Crystal Lantern - Yellow
