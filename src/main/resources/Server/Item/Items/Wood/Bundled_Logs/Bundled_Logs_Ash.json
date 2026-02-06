@@ -1,0 +1,92 @@
+{
+  "TranslationProperties": {
+    "Name": "server.blocks.Bundled_Logs_Ash.name"
+  },
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Wood_Trunk_Ash",
+        "Quantity": 2
+      }
+    ],
+    "OutputQuantity": 1,
+    "BenchRequirement": [
+      {
+        "Type": "StructuralCrafting",
+        "Id": "Builders",
+        "Categories": [
+          "Wall"
+        ]
+      }
+    ]
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Structures/Bundled_Logs/Bundled_Logs.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/Structures/Bundled_Logs_Ash.png",
+        "Weight": 1
+      }
+    ],
+    "HitboxType": "Fence_Thick",
+    "VariantRotation": "Wall",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Wood"
+      }
+    },
+    "Supporting": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ],
+      "Up": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "ConnectedBlockRuleSet": {
+      "Type": "CustomTemplate",
+      "TemplateShapeAssetId": "WallConnectedBlockTemplate",
+      "TemplateShapeBlockPatterns": {
+        "Straight": "Bundled_Logs_Ash",
+        "Corner": "Bundled_Logs_Ash_Corner"
+      }
+    },
+    "BlockParticleSetId": "Wood",
+    "ParticleColor": "#693e2a",
+    "BlockSoundSetId": "Wood"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Wood"
+    ],
+    "Family": [
+      "Hardwood"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "Icon": "Icons/ItemsGenerated/Bundled_Logs_Ash.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

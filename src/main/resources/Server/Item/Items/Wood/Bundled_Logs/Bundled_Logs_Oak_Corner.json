@@ -1,0 +1,44 @@
+{
+  "TranslationProperties": {
+    "Name": "server.blocks.Bundled_Logs_Oak.name"
+  },
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Structures/Bundled_Logs/Bundled_Logs_Corner.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Weight": 1,
+        "Texture": "BlockTextures/Structures/Bundled_Logs_Oak.png"
+      }
+    ],
+    "HitboxType": "Fence_Corner_Thick",
+    "VariantRotation": "NESW",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Wood",
+        "ItemId": "Bundled_Logs_Oak"
+      }
+    },
+    "BlockParticleSetId": "Wood",
+    "ParticleColor": "#693e2a",
+    "BlockSoundSetId": "Wood",
+    "FlipType": "Orthogonal"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Wood"
+    ],
+    "Family": [
+      "Hardwood"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "Variant": true
+}

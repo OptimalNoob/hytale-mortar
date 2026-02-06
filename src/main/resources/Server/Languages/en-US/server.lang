@@ -21,6 +21,11 @@ blocks.Rock_Fired_Brick_Stairs.name = Fired Brick Stairs
 blocks.Rock_Fired_Brick_Beam.name = Fired Brick Beam
 blocks.Rock_Fired_Brick_Wall.name = Fired Brick Wall
 
+blocks.Bundled_Logs_Oak.name = Oak Trunk - Stacked
+blocks.Bundled_Logs_Ash.name = Ash Trunk - Stacked
+blocks.Bundled_Logs_Ashen.name = Ashen Trunk - Stacked
+blocks.Bundled_Logs_Azure.name = Azure Trunk - Stacked
+
 items.Deco_Copper_Chain_Small.name = Copper Chain - Small
 items.Deco_Copper_Bars.name = Copper Bars
 items.Deco_Copper_Bars_Platform.name = Copper Bars - Horizontal
@@ -60,8 +65,6 @@ items.Deco_Gold_Bars_Corner.name = Gold Bars - Corner
 items.Deco_Gold_Stack.name = Stack of Gold Bars
 items.Deco_Gold_Chains.name = Gold Chain
 items.Deco_Gold_Chains_Vertical.name = Gold Chain - Sloped
-
-
 
 items.Deco_Lantern_Crystal_Blue.name = Crystal Lantern - Blue
 items.Deco_Lantern_Crystal_Cyan.name = Crystal Lantern - Cyan
