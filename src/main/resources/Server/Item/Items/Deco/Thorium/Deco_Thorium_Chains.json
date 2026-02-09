@@ -28,7 +28,7 @@
     "CustomModel": "Blocks/Tinkering/Iron_Chains_Large.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "BlockTextures/Deco/Thorium_Chains_Large.png",
+        "Texture": "BlockTextures/Deco/Thorium/Thorium_Chains_Large.png",
         "Weight": 1
       }
     ],

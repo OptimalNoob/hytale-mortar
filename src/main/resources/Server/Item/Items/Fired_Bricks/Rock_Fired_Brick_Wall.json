@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.blocks.Rock_Fired_Brick_Wall.name"
+    "Name": "server.items.Rock_Fired_Brick_Wall.name"
   },
   "ItemLevel": 15,
   "Categories": [
@@ -70,38 +70,6 @@
             }
           ],
           "CustomModel": "Blocks/Structures/Walls/Wall_Snow_Brick_Corner.blockymodel",
-          "HitboxType": "Fence_Corner",
-          "Gathering": {
-            "Breaking": {
-              "ItemId": "Rock_Fired_Brick_Wall",
-              "GatherType": "Rocks"
-            }
-          }
-        },
-        "T_Junction": {
-          "CustomModelTexture": [
-            {
-              "Texture": "BlockTextures/Stairs/Rock_Fired_Brick_Stairs.png",
-              "Weight": 1
-            }
-          ],
-          "CustomModel": "Blocks/Structures/Walls/Wall_Snow_Brick_TJunc.blockymodel",
-          "HitboxType": "Fence_Corner",
-          "Gathering": {
-            "Breaking": {
-              "ItemId": "Rock_Fired_Brick_Wall",
-              "GatherType": "Rocks"
-            }
-          }
-        },
-        "Cross_Junction": {
-          "CustomModelTexture": [
-            {
-              "Texture": "BlockTextures/Stairs/Rock_Fired_Brick_Stairs.png",
-              "Weight": 1
-            }
-          ],
-          "CustomModel": "Blocks/Structures/Walls/Wall_Snow_Brick_CrossJunc.blockymodel",
           "HitboxType": "Fence_Corner",
           "Gathering": {
             "Breaking": {

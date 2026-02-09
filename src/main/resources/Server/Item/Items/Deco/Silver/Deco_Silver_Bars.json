@@ -31,7 +31,7 @@
     "CustomModel": "Blocks/Tinkering/Silver_Bars.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "BlockTextures/Deco/Silver_Bars.png",
+        "Texture": "BlockTextures/Deco/Silver/Silver_Bars.png",
         "Weight": 1
       }
     ],

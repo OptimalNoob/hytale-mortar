@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.blocks.Rock_Fired_Brick.name"
+    "Name": "server.items.Rock_Fired_Brick.name"
   },
   "Icon": "Icons/ItemsGenerated/Rock_Fired_Brick.png",
   "ItemLevel": 15,

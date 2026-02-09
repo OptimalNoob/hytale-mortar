@@ -29,7 +29,7 @@
     "CustomModelTexture": [
       {
         "Weight": 1,
-        "Texture": "BlockTextures/Deco/Thorium_Ingot_Stack.png"
+        "Texture": "BlockTextures/Deco/Thorium/Thorium_Ingot_Stack.png"
       }
     ],
     "VariantRotation": "Wall",

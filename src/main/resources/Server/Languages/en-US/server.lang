@@ -1,26 +1,88 @@
-customUI.itemRepairPage.noItems = No Items Need Repairing
+# Structural Soil  - Dirt
+items.Soil_Dirt_Stairs.name = Dirt Stairs
+items.Soil_Dirt_Half.name = Dirt Slab
+items.Soil_Dirt_Quarter.name = Dirt Slab - Thin
+items.Soil_Dirt_ThreeQuarter.name = Dirt Slab - Thick
 
-blocks.Soil_Dirt_Stairs.name = Dirt Stairs
-blocks.Soil_Dirt_Half.name = Dirt Slab
-blocks.Soil_Dirt_Quarter.name = Dirt Slab - Thin
-blocks.Soil_Dirt_ThreeQuarter.name = Dirt Slab - Thick
+# Structural Soil - Ash
+items.Soil_Ash_Stairs.name = Ash Stairs
+items.Soil_Ash_Half.name = Ash Slab
+items.Soil_Ash_Quarter.name = Ash Slab - Thin
+items.Soil_Ash_ThreeQuarter.name = Ash Slab - Thick
 
-blocks.Soil_Ash_Stairs.name = Ash Stairs
-blocks.Soil_Ash_Half.name = Ash Slab
-blocks.Soil_Ash_Quarter.name = Ash Slab - Thin
-blocks.Soil_Ash_ThreeQuarter.name = Ash Slab - Thick
+# Structural Soil - Dry Mud
+items.Soil_Mud_Dry_Stairs.name = Dry Mud Stairs
+items.Soil_Mud_Dry_Half.name = Dry Mud Slab
+items.Soil_Mud_Dry_Quarter.name = Dry Mud Slab - Thin
+items.Soil_Mud_Dry_ThreeQuarter.name = Dry Mud Slab - Thick
 
-blocks.Soil_Mud_Dry_Stairs.name = Dry Mud Stairs
-blocks.Soil_Mud_Dry_Half.name = Dry Mud Slab
-blocks.Soil_Mud_Dry_Quarter.name = Dry Mud Slab - Thin
-blocks.Soil_Mud_Dry_ThreeQuarter.name = Dry Mud Slab - Thick
+# Structural Soil - Dry Mud
+items.Soil_Needles_Stairs.name = Needled Dirt Stairs
+items.Soil_Needles_Half.name = Needled Dirt Slab
+items.Soil_Needles_Quarter.name = Needled Dirt Slab - Thin
+items.Soil_Needles_ThreeQuarter.name = Needled Dirt Slab - Thick
 
-blocks.Rock_Fired_Brick.name = Fired Brick
-blocks.Rock_Fired_Brick_Half.name = Fired Brick Slab
-blocks.Rock_Fired_Brick_Stairs.name = Fired Brick Stairs
-blocks.Rock_Fired_Brick_Beam.name = Fired Brick Beam
-blocks.Rock_Fired_Brick_Wall.name = Fired Brick Wall
+# Structural Soil - Poisoned Dirt
+items.Soil_Dirt_Poisoned_Stairs.name = Poisoned Dirt Stairs
+items.Soil_Dirt_Poisoned_Half.name = Poisoned Dirt Slab
+items.Soil_Dirt_Poisoned_Quarter.name = Poisoned Dirt Slab - Thin
+items.Soil_Dirt_Poisoned_ThreeQuarter.name = Poisoned Dirt Slab - Thick
 
+# Structural Soil - Cold Dirt
+items.Soil_Dirt_Cold_Stairs.name = Cold Dirt Stairs
+items.Soil_Dirt_Cold_Half.name = Cold Dirt Slab
+items.Soil_Dirt_Cold_Quarter.name = Cold Dirt Slab - Thin
+items.Soil_Dirt_Cold_ThreeQuarter.name = Cold Dirt Slab - Thick
+
+# Structural Soil - Dry Dirt
+items.Soil_Dirt_Dry_Stairs.name = Dry Dirt Stairs
+items.Soil_Dirt_Dry_Half.name = Dry Dirt Slab
+items.Soil_Dirt_Dry_Quarter.name = Dry Dirt Slab - Thin
+items.Soil_Dirt_Dry_ThreeQuarter.name = Dry Dirt Slab - Thick
+
+# Fired Bricks
+items.Rock_Fired_Brick.name = Fired Brick
+items.Rock_Fired_Brick_Half.name = Fired Brick Slab
+items.Rock_Fired_Brick_Stairs.name = Fired Brick Stairs
+items.Rock_Fired_Brick_Beam.name = Fired Brick Beam
+items.Rock_Fired_Brick_Wall.name = Fired Brick Wall
+
+# Log Walls
+items.Log_Wall_Amber.name = Amber Log - Wall
+items.Log_Wall_Ash.name = Ash Log - Wall
+items.Log_Wall_Aspen.name = Aspen Log - Wall
+items.Log_Wall_Azure.name = Azure Log - Wall
+items.Log_Wall_Bamboo.name = Bamboo Log - Wall
+items.Log_Wall_Banyan.name = Banyan Log - Wall
+items.Log_Wall_Beech.name = Beech Log - Wall
+items.Log_Wall_Birch.name = Birch Log - Wall
+items.Log_Wall_Bottletree.name = Bottletree Log - Wall
+items.Log_Wall_Burnt.name = Burnt Log - Wall
+items.Log_Wall_Camphor.name = Camphor Log - Wall
+items.Log_Wall_Cedar.name = Cedar Log - Wall
+items.Log_Wall_Crystalwood.name = Crystalwood Log - Wall
+items.Log_Wall_Dry.name = Dry Log - Wall
+items.Log_Wall_Blue_Fig.name = Blue Fig Log - Wall
+items.Log_Wall_Fir.name = Fir Log - Wall
+items.Log_Wall_Fire.name = Fire Log - Wall
+items.Log_Wall_Gumboab.name = Gumboab Log - Wall
+items.Log_Wall_Ice.name = Ice Log - Wall
+items.Log_Wall_Jungle.name = Jungle Log - Wall
+items.Log_Wall_Maple.name = Maple Log - Wall
+items.Log_Wall_Oak.name = Oak Log - Wall
+items.Log_Wall_Palm.name = Palm Log - Wall
+items.Log_Wall_Palo.name = Palo Log - Wall
+items.Log_Wall_Petrified.name = Petrified Log - Wall
+items.Log_Wall_Poisoned.name = Poisoned Log - Wall
+items.Log_Wall_Redwood.name = Redwood Log - Wall
+items.Log_Wall_Sallow.name = Sallow Log - Wall
+items.Log_Wall_Stormbark.name = Stormbark Log - Wall
+items.Log_Wall_Spiral.name = Spiral Log - Wall
+items.Log_Wall_Stripped.name = Stripped Log - Wall
+items.Log_Wall_Windwillow.name = Windwillow Log - Wall
+items.Log_Wall_Wild_Wisteria.name = Wild Wisteria Log - Wall
+
+# Deco - Copper
 items.Deco_Copper_Chain_Small.name = Copper Chain - Small
 items.Deco_Copper_Bars.name = Copper Bars
 items.Deco_Copper_Bars_Platform.name = Copper Bars - Horizontal
@@ -29,6 +91,7 @@ items.Deco_Copper_Stack.name = Stack of Copper Bars
 items.Deco_Copper_Chains.name = Copper Chain
 items.Deco_Copper_Chains_Vertical.name = Copper Chain - Sloped
 
+# Deco - Thorium
 items.Deco_Thorium_Chain_Small.name = Thorium Chain - Small
 items.Deco_Thorium_Bars.name = Thorium Bars
 items.Deco_Thorium_Bars_Platform.name = Thorium Bars - Horizontal
@@ -37,6 +100,7 @@ items.Deco_Thorium_Stack.name = Stack of Thorium Bars
 items.Deco_Thorium_Chains.name = Thorium Chain
 items.Deco_Thorium_Chains_Vertical.name = Thorium Chain - Sloped
 
+# Deco - Cobalt
 items.Deco_Cobalt_Chain_Small.name = Cobalt Chain - Small
 items.Deco_Cobalt_Bars.name = Cobalt Bars
 items.Deco_Cobalt_Bars_Platform.name = Cobalt Bars - Horizontal
@@ -45,6 +109,7 @@ items.Deco_Cobalt_Stack.name = Stack of Cobalt Bars
 items.Deco_Cobalt_Chains.name = Cobalt Chain
 items.Deco_Cobalt_Chains_Vertical.name = Cobalt Chain - Sloped
 
+# Deco - Silver
 items.Deco_Silver_Chain_Small.name = Silver Chain - Small
 items.Deco_Silver_Bars.name = Silver Bars
 items.Deco_Silver_Bars_Platform.name = Silver Bars - Horizontal
@@ -53,6 +118,7 @@ items.Deco_Silver_Stack.name = Stack of Silver Bars
 items.Deco_Silver_Chains.name = Silver Chain
 items.Deco_Silver_Chains_Vertical.name = Silver Chain - Sloped
 
+# Deco - Gold
 items.Deco_Gold_Chain_Small.name = Gold Chain - Small
 items.Deco_Gold_Bars.name = Gold Bars
 items.Deco_Gold_Bars_Platform.name = Gold Bars - Horizontal
@@ -60,3 +126,16 @@ items.Deco_Gold_Bars_Corner.name = Gold Bars - Corner
 items.Deco_Gold_Stack.name = Stack of Gold Bars
 items.Deco_Gold_Chains.name = Gold Chain
 items.Deco_Gold_Chains_Vertical.name = Gold Chain - Sloped
+
+# Deco - Adamantite
+items.Deco_Adamantite_Chain_Small.name = Adamantite Chain - Small
+items.Deco_Adamantite_Bars.name = Adamantite Bars
+items.Deco_Adamantite_Bars_Platform.name = Adamantite Bars - Horizontal
+items.Deco_Adamantite_Bars_Corner.name = Adamantite Bars - Corner
+items.Deco_Adamantite_Stack.name = Stack of Adamantite Bars
+items.Deco_Adamantite_Chains.name = Adamantite Chain
+items.Deco_Adamantite_Chains_Vertical.name = Adamantite Chain - Sloped
+
+# Plant - Saplings
+items.Plant_Sapling_Spruce.name = Fir Sapling
+items.Plant_Sapling_Spruce_Frozen.name = Frozen Fir Sapling

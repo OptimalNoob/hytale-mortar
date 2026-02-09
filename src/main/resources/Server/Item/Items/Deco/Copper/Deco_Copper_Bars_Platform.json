@@ -32,7 +32,7 @@
     "CustomModelTexture": [
       {
         "Weight": 1,
-        "Texture": "BlockTextures/Deco/Copper_Bars.png"
+        "Texture": "BlockTextures/Deco/Copper/Copper_Bars.png"
       }
     ],
     "DrawType": "Model",

@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.blocks.Rock_Fired_Brick_Beam.name"
+    "Name": "server.items.Rock_Fired_Brick_Beam.name"
   },
   "ItemLevel": 15,
   "Categories": [

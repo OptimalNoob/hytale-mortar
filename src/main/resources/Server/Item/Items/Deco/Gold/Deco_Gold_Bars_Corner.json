@@ -11,11 +11,11 @@
     "Material": "Solid",
     "DrawType": "Model",
     "Opacity": "Transparent",
-    "CustomModel": "Blocks/Tinkering/Iron_Bars_Corner.blockymodel",
+    "CustomModel": "Blocks/Tinkering/Silver_Bars_Corner.blockymodel",
     "CustomModelTexture": [
       {
         "Weight": 1,
-        "Texture": "BlockTextures/Deco/Gold_Bars.png"
+        "Texture": "BlockTextures/Deco/Gold/Gold_Bars.png"
       }
     ],
     "HitboxType": "Fence_Corner_Thin",

@@ -28,10 +28,10 @@
     "Material": "Solid",
     "DrawType": "Model",
     "Opacity": "Transparent",
-    "CustomModel": "Blocks/Tinkering/Iron_Bars.blockymodel",
+    "CustomModel": "Blocks/Tinkering/Silver_Bars.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "BlockTextures/Deco/Gold_Bars.png",
+        "Texture": "BlockTextures/Deco/Gold/Gold_Bars.png",
         "Weight": 1
       }
     ],

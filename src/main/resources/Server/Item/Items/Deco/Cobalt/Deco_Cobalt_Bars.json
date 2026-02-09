@@ -31,7 +31,7 @@
     "CustomModel": "Blocks/Tinkering/Cobalt_Bars.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "BlockTextures/Deco/Cobalt_Bars.png",
+        "Texture": "BlockTextures/Deco/Cobalt/Cobalt_Bars.png",
         "Weight": 1
       }
     ],

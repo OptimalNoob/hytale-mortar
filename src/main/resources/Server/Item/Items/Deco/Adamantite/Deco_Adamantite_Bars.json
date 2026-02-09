@@ -1,0 +1,81 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Deco_Adamantite_Bars.name"
+  },
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Set": "Deco_Adamantite",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Adamantite",
+        "Quantity": 1
+      }
+    ],
+    "OutputQuantity": 2,
+    "BenchRequirement": [
+      {
+        "Type": "StructuralCrafting",
+        "Id": "Builders",
+        "Categories": [
+          "Wall"
+        ]
+      }
+    ]
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Tinkering/Adamantite_Bars.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/Deco/Adamantite/Adamantite_Bars.png",
+        "Weight": 1
+      }
+    ],
+    "HitboxType": "Fence_Thin",
+    "VariantRotation": "Wall",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "ConnectedBlockRuleSet": {
+      "Type": "CustomTemplate",
+      "TemplateShapeAssetId": "WallConnectedBlockTemplate",
+      "TemplateShapeBlockPatterns": {
+        "Straight": "Deco_Adamantite_Bars",
+        "Corner": "Deco_Adamantite_Bars_Corner"
+      }
+    },
+    "BlockParticleSetId": "Metal",
+    "ParticleColor": "#246080",
+    "BlockSoundSetId": "Metal"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Deco"
+    ],
+    "Family": [
+      "Adamantite"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "Icon": "Icons/ItemsGenerated/Deco_Adamantite_Bars.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

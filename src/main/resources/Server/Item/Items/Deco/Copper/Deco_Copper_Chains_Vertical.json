@@ -29,7 +29,7 @@
     "CustomModel": "Blocks/Tinkering/Iron_Chains_Large_Vertical.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "BlockTextures/Deco/Copper_Chains_Large.png",
+        "Texture": "BlockTextures/Deco/Copper/Copper_Chains_Large.png",
         "Weight": 1
       }
     ],

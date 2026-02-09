@@ -29,7 +29,7 @@
     "CustomModel": "Blocks/Tinkering/Iron_Chain_Small.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "BlockTextures/Deco/Copper_Chain_Small.png",
+        "Texture": "BlockTextures/Deco/Copper/Copper_Chain_Small.png",
         "Weight": 1
       }
     ],
@@ -44,6 +44,13 @@
     "BlockParticleSetId": "Metal",
     "MovementSettings": {
       "IsClimbable": true
+    },
+    "Supporting": {
+      "Down": [
+        {
+          "FaceType": "Rope"
+        }
+      ]
     },
     "ParticleColor": "#b56738",
     "BlockSoundSetId": "Metal"

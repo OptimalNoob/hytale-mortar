@@ -15,7 +15,7 @@
     "CustomModelTexture": [
       {
         "Weight": 1,
-        "Texture": "BlockTextures/Deco/Silver_Bars.png"
+        "Texture": "BlockTextures/Deco/Silver/Silver_Bars.png"
       }
     ],
     "HitboxType": "Fence_Corner_Thin",
