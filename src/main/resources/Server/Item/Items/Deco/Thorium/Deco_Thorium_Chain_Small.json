@@ -39,6 +39,13 @@
         "GatherType": "Rocks"
       }
     },
+    "Supporting": {
+      "Down": [
+        {
+          "FaceType": "Rope"
+        }
+      ]
+    },
     "VariantRotation": "Pipe",
     "BlockParticleSetId": "Metal",
     "MovementSettings": {

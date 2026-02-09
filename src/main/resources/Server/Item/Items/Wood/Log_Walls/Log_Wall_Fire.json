@@ -1,0 +1,92 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Log_Wall_Fire.name"
+  },
+  "Categories": [
+    "Blocks.Deco"
+  ],
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Wood_Fire_Trunk",
+        "Quantity": 2
+      }
+    ],
+    "OutputQuantity": 1,
+    "BenchRequirement": [
+      {
+        "Type": "StructuralCrafting",
+        "Id": "Builders",
+        "Categories": [
+          "Wall"
+        ]
+      }
+    ]
+  },
+  "BlockType": {
+    "Material": "Solid",
+    "DrawType": "Model",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Structures/Log_Walls/Log_Wall.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "BlockTextures/Structures/Log_Walls/Log_Wall_Fire.png",
+        "Weight": 1
+      }
+    ],
+    "HitboxType": "Fence_Thick",
+    "VariantRotation": "Wall",
+    "Flags": {},
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Wood"
+      }
+    },
+    "Supporting": {
+      "Down": [
+        {
+          "FaceType": "Full"
+        }
+      ],
+      "Up": [
+        {
+          "FaceType": "Full"
+        }
+      ]
+    },
+    "ConnectedBlockRuleSet": {
+      "Type": "CustomTemplate",
+      "TemplateShapeAssetId": "WallConnectedBlockTemplate",
+      "TemplateShapeBlockPatterns": {
+        "Straight": "Log_Wall_Fire",
+        "Corner": "Log_Wall_Fire_Corner"
+      }
+    },
+    "BlockParticleSetId": "Wood",
+    "ParticleColor": "#693e2a",
+    "BlockSoundSetId": "Wood"
+  },
+  "PlayerAnimationsId": "Block",
+  "Tags": {
+    "Type": [
+      "Wood"
+    ],
+    "Family": [
+      "Hardwood"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "Icon": "Icons/ItemsGenerated/Log_Wall_Fire.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -13.5
+    ]
+  }
+}

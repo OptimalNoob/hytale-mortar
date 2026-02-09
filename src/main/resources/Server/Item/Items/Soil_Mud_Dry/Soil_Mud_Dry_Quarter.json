@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.blocks.Soil_Mud_Dry_Quarter.name"
+    "Name": "server.items.Soil_Mud_Dry_Quarter.name"
   },
   "ItemLevel": 3,
   "Categories": [

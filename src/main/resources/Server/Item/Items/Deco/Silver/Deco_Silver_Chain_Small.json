@@ -47,6 +47,13 @@
     "ParticleColor": "#f8f8f8",
     "BlockSoundSetId": "Metal"
   },
+  "Supporting": {
+    "Down": [
+      {
+        "FaceType": "Rope"
+      }
+    ]
+  },
   "PlayerAnimationsId": "Block",
   "Tags": {
     "Type": [

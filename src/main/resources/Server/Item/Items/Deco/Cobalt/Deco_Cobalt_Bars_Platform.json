@@ -31,7 +31,7 @@
     "CustomModelTexture": [
       {
         "Weight": 1,
-        "Texture": "BlockTextures/Deco/Cobalt_Bars.png"
+        "Texture": "BlockTextures/Deco/Cobalt/Cobalt_Bars.png"
       }
     ],
     "DrawType": "Model",

@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.blocks.Soil_Dirt_Half.name"
+    "Name": "server.items.Soil_Dirt_Half.name"
   },
   "Icon": "Icons/ItemsGenerated/Soil_Dirt_Half.png",
   "ItemLevel": 3,

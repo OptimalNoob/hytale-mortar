@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.blocks.Soil_Dirt_Stairs.name"
+    "Name": "server.items.Soil_Dirt_Stairs.name"
   },
   "Icon": "Icons/ItemsGenerated/Soil_Dirt_Stairs.png",
   "ItemLevel": 3,

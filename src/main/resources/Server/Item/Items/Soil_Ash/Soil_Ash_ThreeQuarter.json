@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "server.blocks.Soil_Ash_ThreeQuarter.name"
+    "Name": "server.items.Soil_Ash_ThreeQuarter.name"
   },
   "Icon": "Icons/ItemsGenerated/Soil_Ash_ThreeQuarter.png",
   "ItemLevel": 3,

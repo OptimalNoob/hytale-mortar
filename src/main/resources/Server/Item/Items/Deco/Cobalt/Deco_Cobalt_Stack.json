@@ -29,7 +29,7 @@
     "CustomModelTexture": [
       {
         "Weight": 1,
-        "Texture": "BlockTextures/Deco/Cobalt_Ingot_Stack.png"
+        "Texture": "BlockTextures/Deco/Cobalt/Cobalt_Ingot_Stack.png"
       }
     ],
     "VariantRotation": "Wall",
