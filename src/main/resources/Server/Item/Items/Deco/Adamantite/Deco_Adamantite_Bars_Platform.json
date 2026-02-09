@@ -27,7 +27,7 @@
   },
   "BlockType": {
     "BlockParticleSetId": "Metal",
-    "CustomModel": "Blocks/Tinkering/Iron_Bars_Platform.blockymodel",
+    "CustomModel": "Blocks/Tinkering/Adamantite_Bars_Platform.blockymodel",
     "CustomModelTexture": [
       {
         "Weight": 1,

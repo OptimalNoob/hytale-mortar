@@ -151,45 +151,97 @@
         {
           "id": "4",
           "name": "WallAttachment--C1",
-          "position": {"x": -5, "y": 3, "z": -3},
-          "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+          "position": {"x": -5, "y": -1, "z": 6},
+          "orientation": {"x": 0.19509, "y": 0, "z": 0, "w": 0.98079},
           "shape": {
             "type": "box",
-            "offset": {"x": 5, "y": 3, "z": -4},
+            "offset": {"x": 5, "y": 3, "z": -9},
             "stretch": {"x": 1, "y": 1, "z": 1},
             "settings": {
               "isPiece": false,
-              "size": {"x": 10, "y": 6, "z": 26},
+              "size": {"x": 10, "y": 6, "z": 16},
               "isStaticBox": true
             },
             "textureLayout": {
               "back": {
                 "offset": {"x": 0, "y": 61},
-                "mirror": {"x": false, "y": false},
-                "angle": 270
+                "mirror": {"x": true, "y": true},
+                "angle": 90
               },
               "right": {
-                "offset": {"x": 58, "y": 46},
-                "mirror": {"x": false, "y": false},
+                "offset": {"x": 33, "y": 29},
+                "mirror": {"x": true, "y": true},
                 "angle": 270
               },
               "front": {
                 "offset": {"x": 0, "y": 61},
-                "mirror": {"x": false, "y": false},
-                "angle": 270
+                "mirror": {"x": true, "y": true},
+                "angle": 90
               },
               "left": {
-                "offset": {"x": 58, "y": 46},
-                "mirror": {"x": false, "y": false},
+                "offset": {"x": 51, "y": 29},
+                "mirror": {"x": true, "y": true},
                 "angle": 270
               },
               "top": {
-                "offset": {"x": 40, "y": 20},
+                "offset": {"x": 41, "y": 21},
                 "mirror": {"x": false, "y": false},
                 "angle": 0
               },
               "bottom": {
-                "offset": {"x": 28, "y": 46},
+                "offset": {"x": 27, "y": 37},
+                "mirror": {"x": false, "y": true},
+                "angle": 0
+              }
+            },
+            "unwrapMode": "custom",
+            "visible": true,
+            "doubleSided": false,
+            "shadingMode": "flat"
+          }
+        },
+        {
+          "id": "5",
+          "name": "WallAttachment--C2",
+          "position": {"x": -4, "y": 5.875, "z": -4.2},
+          "orientation": {"x": -0.19509, "y": 0, "z": 0, "w": 0.98079},
+          "shape": {
+            "type": "box",
+            "offset": {"x": 4, "y": 3, "z": -9},
+            "stretch": {"x": 1, "y": 1, "z": 1},
+            "settings": {
+              "isPiece": false,
+              "size": {"x": 8, "y": 6, "z": 16},
+              "isStaticBox": true
+            },
+            "textureLayout": {
+              "back": {
+                "offset": {"x": 0, "y": 59},
+                "mirror": {"x": true, "y": true},
+                "angle": 90
+              },
+              "right": {
+                "offset": {"x": 33, "y": 29},
+                "mirror": {"x": true, "y": true},
+                "angle": 270
+              },
+              "front": {
+                "offset": {"x": 0, "y": 61},
+                "mirror": {"x": true, "y": true},
+                "angle": 90
+              },
+              "left": {
+                "offset": {"x": 51, "y": 29},
+                "mirror": {"x": true, "y": true},
+                "angle": 270
+              },
+              "top": {
+                "offset": {"x": 43, "y": 21},
+                "mirror": {"x": false, "y": false},
+                "angle": 0
+              },
+              "bottom": {
+                "offset": {"x": 27, "y": 37},
                 "mirror": {"x": false, "y": true},
                 "angle": 0
               }
@@ -203,7 +255,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "6",
       "name": "Lantern",
       "position": {"x": 0, "y": 26, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
@@ -254,7 +306,7 @@
       }
     },
     {
-      "id": "6",
+      "id": "7",
       "name": "Lantern2",
       "position": {"x": 0, "y": 2, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
@@ -305,7 +357,7 @@
       }
     },
     {
-      "id": "7",
+      "id": "8",
       "name": "Frame",
       "position": {"x": 0, "y": 14, "z": 0},
       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},

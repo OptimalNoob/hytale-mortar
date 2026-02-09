@@ -28,7 +28,7 @@
     "CustomModel": "Blocks/Tinkering/Iron_Chain_Small.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "BlockTextures/Deco/Silver_Chain_Small.png",
+        "Texture": "BlockTextures/Deco/Silver/Silver_Chain_Small.png",
         "Weight": 1
       }
     ],

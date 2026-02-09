@@ -28,7 +28,7 @@
     "Material": "Solid",
     "DrawType": "Model",
     "Opacity": "Transparent",
-    "CustomModel": "Blocks/Tinkering/Iron_Bars.blockymodel",
+    "CustomModel": "Blocks/Tinkering/Adamantite_Bars.blockymodel",
     "CustomModelTexture": [
       {
         "Texture": "BlockTextures/Deco/Adamantite/Adamantite_Bars.png",

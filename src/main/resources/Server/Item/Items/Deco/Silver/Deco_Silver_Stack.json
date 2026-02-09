@@ -29,7 +29,7 @@
     "CustomModelTexture": [
       {
         "Weight": 1,
-        "Texture": "BlockTextures/Deco/Silver_Ingot_Stack.png"
+        "Texture": "BlockTextures/Deco/Silver/Silver_Ingot_Stack.png"
       }
     ],
     "VariantRotation": "Wall",

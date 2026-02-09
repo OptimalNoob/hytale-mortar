@@ -1,5 +1,3 @@
-customUI.itemRepairPage.noItems = No Items Need Repairing
-
 # Structural Soil  - Dirt
 items.Soil_Dirt_Stairs.name = Dirt Stairs
 items.Soil_Dirt_Half.name = Dirt Slab
@@ -17,6 +15,30 @@ items.Soil_Mud_Dry_Stairs.name = Dry Mud Stairs
 items.Soil_Mud_Dry_Half.name = Dry Mud Slab
 items.Soil_Mud_Dry_Quarter.name = Dry Mud Slab - Thin
 items.Soil_Mud_Dry_ThreeQuarter.name = Dry Mud Slab - Thick
+
+# Structural Soil - Dry Mud
+items.Soil_Needles_Stairs.name = Needled Dirt Stairs
+items.Soil_Needles_Half.name = Needled Dirt Slab
+items.Soil_Needles_Quarter.name = Needled Dirt Slab - Thin
+items.Soil_Needles_ThreeQuarter.name = Needled Dirt Slab - Thick
+
+# Structural Soil - Poisoned Dirt
+items.Soil_Dirt_Poisoned_Stairs.name = Poisoned Dirt Stairs
+items.Soil_Dirt_Poisoned_Half.name = Poisoned Dirt Slab
+items.Soil_Dirt_Poisoned_Quarter.name = Poisoned Dirt Slab - Thin
+items.Soil_Dirt_Poisoned_ThreeQuarter.name = Poisoned Dirt Slab - Thick
+
+# Structural Soil - Cold Dirt
+items.Soil_Dirt_Cold_Stairs.name = Cold Dirt Stairs
+items.Soil_Dirt_Cold_Half.name = Cold Dirt Slab
+items.Soil_Dirt_Cold_Quarter.name = Cold Dirt Slab - Thin
+items.Soil_Dirt_Cold_ThreeQuarter.name = Cold Dirt Slab - Thick
+
+# Structural Soil - Dry Dirt
+items.Soil_Dirt_Dry_Stairs.name = Dry Dirt Stairs
+items.Soil_Dirt_Dry_Half.name = Dry Dirt Slab
+items.Soil_Dirt_Dry_Quarter.name = Dry Dirt Slab - Thin
+items.Soil_Dirt_Dry_ThreeQuarter.name = Dry Dirt Slab - Thick
 
 # Fired Bricks
 items.Rock_Fired_Brick.name = Fired Brick

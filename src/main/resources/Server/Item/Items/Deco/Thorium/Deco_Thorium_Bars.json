@@ -31,7 +31,7 @@
     "CustomModel": "Blocks/Tinkering/Thorium_Bars.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "BlockTextures/Deco/Thorium_Bars.png",
+        "Texture": "BlockTextures/Deco/Thorium/Thorium_Bars.png",
         "Weight": 1
       }
     ],
